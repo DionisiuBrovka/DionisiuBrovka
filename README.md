@@ -1,16 +1,17 @@
-<h1>
-<p style="text-align: center;">
-✨ Dionisiu Brovka ✨
-</p>
-</h1>
+<div align="center">
+  
+  <h1>✨ Dionisiu Brovka ✨</h1>
+  
+</div>
 
-<p style="text-align: center;">
+<div align="center">
+  
+  [![Link](https://img.shields.io/badge/telegram-goppi-blue?style=for-the-badge&color=%2300b2ff)](mailto:dev.dionisiu.brovka@gmail.com) 
+  [![Link](https://img.shields.io/badge/github-DIONISIU_BROVKA-blue?style=for-the-badge&color=%234925bb)](mailto:dev.dionisiu.brovka@gmail.com)
+  [![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
+  
+</div>
 
-[![Link](https://img.shields.io/badge/telegram-goppi-blue?style=for-the-badge&color=%2300b2ff)](mailto:dev.dionisiu.brovka@gmail.com) 
-[![Link](https://img.shields.io/badge/github-DIONISIU_BROVKA-blue?style=for-the-badge&color=%234925bb)](mailto:dev.dionisiu.brovka@gmail.com)
-[![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
-
-</p>
 
 ## 🌿 About me
 > **“All my problems bow before my stubbornness.”**
