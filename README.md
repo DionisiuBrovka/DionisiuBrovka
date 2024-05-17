@@ -20,10 +20,21 @@
 
 ## ⚙️ Tech. stack
 
-## 💾 Projects
+- Python
+  	* Django
+  	* DRF
+  	* Flask
+	* FAST APi
+- Dart
+    * Flutter
 
 
 ## 🎓 Education
 
-- 2006-2017 Базовое образование 
-- 2017-2021 Высшее образование 
+- **2017-2021** / [Belarusian National Technical University](https://гимназия.несвиж-асвета.бел/) / 1-08 01 01 Professional training computer science (baccalaureate)
+
+## 💼 Work experience
+
+- **2021-2022** / [Сenter of technical creativity (Lida)](https://lrctt.edu-lida.gov.by/) / Additional education teacher
+- **2022-...** / [Minsk State College of Digital Technologies](https://mgkct.minskedu.gov.by/) / Teacher of special disciplines
+
