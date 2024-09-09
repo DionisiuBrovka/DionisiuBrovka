@@ -16,17 +16,25 @@
 ## 🌿 About me
 > **“All my problems bow before my stubbornness.”**
 > 
-> _― Amit Kalantri, Wealth of Words_ 
+> _― Amit Kalantri, Wealth of Words_
+
+Multilingual Full Stack Developer with a strong passion for crafting efficient, high-quality code and adhering to standardized approaches in software development. Proficient in both front-end and back-end technologies, I thrive on solving complex problems and am eager to grow in exciting and innovative fields. Committed to continuous learning and improvement, I aim to deliver exceptional results and contribute to collaborative team environments.
 
 ## ⚙️ Tech. stack
 
-- Python
+- **Python**
   	* Django
   	* DRF
   	* Flask
 	* FAST APi
-- Dart
+- **Dart**
     * Flutter
+- **C#**
+    * WinForms (.NetFramework)
+    * ASP.NET
+ - **Java**
+    * Android
+    * Spring
 
 
 ## 🎓 Education
