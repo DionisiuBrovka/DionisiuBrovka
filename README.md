@@ -44,5 +44,6 @@ Multilingual Full Stack Developer with a strong passion for crafting efficient, 
 ## 💼 Work experience
 
 - **2021-2022** / [Сenter of technical creativity (Lida)](https://lrctt.edu-lida.gov.by/) / Additional education teacher
-- **2022-...** / [Minsk State College of Digital Technologies](https://mgkct.minskedu.gov.by/) / Teacher of special disciplines
+- **2022-2026** / [Minsk State College of Digital Technologies](https://mgkct.minskedu.gov.by/) / Teacher of special disciplines
+- Looking for a job !!!
 
