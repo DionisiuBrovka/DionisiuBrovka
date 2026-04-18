@@ -2,39 +2,19 @@
   
   <h1>✨ Dionisiu Brovka ✨</h1>
   
-  <p>
-	🚀 Flutter Developer • Backend (Django / DRF) • Fullstack Engineer  
-  </p>
-  
   [![Link](https://img.shields.io/badge/telegram-goppi-blue?style=for-the-badge&color=%2300b2ff)](mailto:dev.dionisiu.brovka@gmail.com) 
   [![Link](https://img.shields.io/badge/github-DIONISIU_BROVKA-blue?style=for-the-badge&color=%234925bb)](mailto:dev.dionisiu.brovka@gmail.com)
   [![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
   
 </div>
 
-## 🌿 About me
 > **“All my problems bow before my stubbornness.”**
 > 
 > _― Amit Kalantri, Wealth of Words_
 
+## 🌿 About me
+
 Multilingual Full Stack Developer with a strong passion for crafting efficient, high-quality code and adhering to standardized approaches in software development. Proficient in both front-end and back-end technologies, I thrive on solving complex problems and am eager to grow in exciting and innovative fields. Committed to continuous learning and improvement, I aim to deliver exceptional results and contribute to collaborative team environments.
-
-## ⚙️ Tech. stack
-
-- **Python**
-  	* Django
-  	* DRF
-  	* Flask
-	* FAST APi
-- **Dart**
-    * Flutter
-- **C#**
-    * WinForms (.NetFramework)
-    * ASP.NET
- - **Java**
-    * Android
-    * Spring
-
 
 ## 🎓 Education
 
