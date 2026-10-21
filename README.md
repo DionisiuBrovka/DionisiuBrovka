@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dionisiu Brovka
+# ✨ Dionisiu Brovka ✨
 
 **Full-stack developer · Educator · Curious tinkerer**
 
